@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+}
+
+h3 {
+    color: teal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {
+    color: teal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#brand {
+    background-color: darkcyan;
+    color:white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    padding: 5px;
+}
+
+#sub-box {
+    background-color: white;
+    padding: 50px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
